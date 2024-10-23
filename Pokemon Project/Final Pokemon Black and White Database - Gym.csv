@@ -1,0 +1,12 @@
+GymID,GymName,LeaderID,LocationID,GymBadgeName,TMRewardID,TypeID,Effects
+1,Striaton City Gym,5,46,Trio Badge,83,2,Pokemon up to level 20 obey you
+2,Striaton City Gym,7,46,Trio Badge,83,3,Pokemon up to level 20 obey you
+3,Striaton City Gym,6,46,Trio Badge,83,4,Pokemon up to level 20 obey you
+4,Nacrene City Gym,8,31,Basic Badge,67,1,Pokemon up to level 30 obey you
+5,Castelia City Gym,9,9,Insect Badge,76,12,Pokemon up to level 40 obey you
+6,Nimbasa City Gym,10,32,Bolt Badge,72,5,Pokemon up to level 50 obey you
+7,Driftveil City Gym,11,17,Quake Badge,78,9,Pokemon up to level 60 obey you
+8,Mistralton City Gym,12,28,Jet Badge,62,10,Pokemon up to level 70 obey you
+9,Icirrus City Gym,13,22,Freeze Badge,79,6,Pokemon up to level 80 obey you
+10,Opelucid City Gym,14,34,Legend Badge,82,16,All Pokemon obey you
+11,Opelucid City Gym,15,34,Legend Badge,82,16,All Pokemon obey you

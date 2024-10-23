@@ -1,0 +1,376 @@
+ItemID,ItemName,Item1TypeID,Item2TypeID
+1,Absorb Bulb,3,777
+2,Adamant Orb,3,777
+3,Air Balloon,3,777
+4,Amulet Coin,3,777
+5,Antidote,1,777
+6,Armor Fossil,9,777
+7,Awakening,1,777
+8,BalmMushroom,6,777
+9,Berry Juice,1,777
+10,Bicycle,10,777
+11,Big Mushroom,6,777
+12,Big Nugget,6,777
+13,Big Pearl,6,777
+14,Big Root,3,777
+15,Binding Band,3,777
+16,Black Belt,3,777
+17,Black Flute,6,777
+18,Black Sludge,3,777
+19,BlackGlasses,3,777
+20,Blue Flute,6,777
+21,Blue Scarf,3,777
+22,Blue Shard,6,777
+23,BridgeMail D,8,777
+24,BridgeMail M,8,777
+25,BridgeMail S,8,777
+26,BridgeMail T,8,777
+27,BridgeMail V,8,777
+28,BrightPowder,3,777
+29,Bug Gem,3,777
+30,Burn Drive,3,777
+31,Burn Heal,1,777
+32,Calcium,5,777
+33,Carbos,5,777
+34,Casteliacone,1,777
+35,Cell Battery,3,777
+36,Charcoal,3,777
+37,Cherish Ball,7,777
+38,Chill Drive,3,777
+39,Choice Band,3,777
+40,Choice Scarf,3,777
+41,Choice Specs,3,777
+42,Claw Fossil,9,777
+43,Cleanse Tag,3,777
+44,Clever Wing,5,777
+45,Comet Shard ,6,777
+46,Cover Fossil,9,777
+47,Damp Rock,3,777
+48,Dark Gem,3,777
+49,Dark Stone,10,777
+50,Dawn Stone,4,777
+51,DeepSeaScale,3,4
+52,DeepSeaTooth,3,4
+53,Destiny Knot,3,777
+54,Dire Hit,2,777
+55,Dive Ball,7,777
+56,Dome Fossil,9,777
+57,Douse Drive,3,777
+58,Dowsing MCHN,10,777
+59,Draco Plate,3,777
+60,Dragon Fang,3,777
+61,Dragon Gem,3,777
+62,Dragon Scale,4,777
+63,Dragon Skull,10,777
+64,Dread Plate,3,777
+65,Dream Ball,7,777
+66,Dubious Disc,3,4
+67,Dusk Ball,7,777
+68,Dusk Stone,4,777
+69,Earth Plate,3,777
+70,Eject Button,3,777
+71,Electirizer,3,4
+72,Electric Gem,3,777
+73,Elixir,1,777
+74,Energy Root,1,777
+75,Energypowder,1,777
+76,Escape Rope,6,777
+77,Ether,1,777
+78,Everstone,3,777
+79,Eviolite,3,777
+80,Exp. Share,3,777
+81,Expert Belt,3,777
+82,Favored Mail,8,777
+83,Fighting Gem,3,777
+84,Fire Gem,3,777
+85,Fire Stone,4,777
+86,Fist plate,3,777
+87,Flame Orb,3,777
+88,Flame Plate,3,777
+89,Float Stone,3,777
+90,Fluffy Tail,6,777
+91,Flying Gem,3,777
+92,Focus Band,3,777
+93,Focus Sash,3,777
+94,Fresh Water,1,777
+95,Full Heal,1,777
+96,Full Incense,3,777
+97,Full Restore,1,777
+98,Genius Wing,5,777
+99,Ghost Gem,3,777
+100,Gracidea,10,777
+101,Gram 1,10,777
+102,Gram 2,10,777
+103,Gram 3,10,777
+104,Grass Gem,3,777
+105,Great Ball,7,777
+106,Green Scarf,3,777
+107,Green Shard,6,777
+108,Greet Mail,8,777
+109,Grip Claw,3,777
+110,Griseous Orb,3,777
+111,Ground Gem,3,777
+112,Guard Spec.,2,777
+113,Hard Stone,3,777
+114,Heal Ball,7,777
+115,Heal Powder,1,777
+116,Health Wing,5,777
+117,Heart Scale,6,777
+118,Heat Rock,3,777
+119,Helix Fossil,9,777
+120,Honey,6,777
+121,HP Up,5,777
+122,Hyper Potion,1,777
+123,Ice Gem,3,777
+124,Ice Heal,1,777
+125,Icy Rock,3,777
+126,Icycle Plate,3,777
+127,Inquiry Mail,8,777
+128,Insect Plate,3,777
+129,Iron,5,777
+130,Iron Ball,3,777
+131,Iron Plate,3,777
+132,King's Rock,3,4
+133,Lagging Tail,3,777
+134,Lava Cookie,1,777
+135,Lax Incense,3,777
+136,Leaf Stone,4,777
+137,Leftovers,3,777
+138,Lemonade,1,777
+139,Liberty Pass,10,777
+140,Life Orb,3,777
+141,Light Ball ,3,777
+142,Light Clay,3,777
+143,Light Stone,10,777
+144,Like Mail,8,777
+145,Lock Capsule,10,777
+146,Luck Incense,3,777
+147,Lucky Egg,3,777
+148,Lucky Punch,3,777
+149,Lustrous Orb,3,777
+150,Luxury Ball,7,777
+151,Macho Brace,3,777
+152,Magmarizer,3,4
+153,Magnet,3,777
+154,Master Ball,7,777
+155,Max Elixir,1,777
+156,Max Ether,1,777
+157,Max Potion,1,777
+158,Max Repel,6,777
+159,Max Revive,1,777
+160,Meadow Plate,3,777
+161,Mental Herb,3,777
+162,Metal Coat,3,4
+163,Metal Powder,3,777
+164,Metronome,3,777
+165,Mind Plate,3,777
+166,Miracle Seed,3,777
+167,Moomoo Milk,1,777
+168,Moon Stone,4,777
+169,Muscle Band,3,777
+170,Muscle Wing,5,777
+171,Mystic Water,3,777
+172,Nest Ball,7,777
+173,Net Ball,7,777
+174,NeverMeltIce,3,777
+175,Normal Gem,3,777
+176,Nugget,6,777
+177,Odd Incense,3,777
+178,Old Amber,9,777
+179,Old Gateau,1,777
+180,Oval Stone,4,777
+181,Pal Pad,10,777
+182,Parlyz Heal,1,777
+183,Pass Orb,6,777
+184,Pearl,6,777
+185,Pearl String,6,777
+186,Pink Scarf,3,777
+187,Plume Fossil ,9,777
+188,Poison Barb,3,777
+189,Poison Gem,3,777
+190,Poke Ball,7,777
+191,Poke Doll,6,777
+192,Poke Toy,6,777
+193,Potion,1,777
+194,Power Anklet,3,777
+195,Power Band,3,777
+196,Power Belt,3,777
+197,Power Bracer,3,777
+198,Power Herb,3,777
+199,Power Lens,3,777
+200,Power Weight,3,777
+201,PP Max,5,777
+202,PP Up,5,777
+203,Premier Ball,7,777
+204,Pretty Wing,6,777
+205,Prism Scale,4,777
+206,Prop Case,10,777
+207,Protector,3,4
+208,Protein,5,777
+209,Psychic Gem,3,777
+210,Pure Incense,3,777
+211,Quick Ball,7,777
+212,Quick Claw,3,777
+213,Quick Powder,3,777
+214,Ragecandybar,1,10
+215,Rare Bone,6,777
+216,Rare Candy,5,777
+217,Razor Claw,3,4
+218,Razor Fang,3,4
+219,Reaper Cloth,3,4
+220,Red Card,3,777
+221,Red Flute,6,777
+222,Red Scarf,3,777
+223,Red Shard,6,777
+224,Relic Band,6,777
+225,Relic Copper,6,777
+226,Relic Crown,6,777
+227,Relic Gold,6,777
+228,Relic Silver,6,777
+229,Relic Statue,6,777
+230,Relic Vase,6,777
+231,Repeat Ball,7,777
+232,Repel,6,777
+233,Reply Mail,8,777
+234,Resist Wing,5,777
+235,Revival Herb,1,777
+236,Revive,1,777
+237,Ring Target,3,777
+238,Rock Gem,3,777
+239,Rock Incense,3,777
+240,Rocky Helmet,3,777
+241,Root Fossil,9,777
+242,Rose Incense,3,777
+243,RSVP,8,777
+244,Sacred Ash,1,777
+245,Safari Ball,7,777
+246,Scope Lens,3,777
+247,Sea Incense,3,777
+248,Sharp Beak,3,777
+249,Shed Shell,3,777
+250,Shell Bell,3,777
+251,Shiny Stone,4,777
+252,Shoal Salt,6,777
+253,Shoal Shell,6,777
+254,Shock Drive,3,777
+255,Silk Scarf,3,777
+256,SilverPowder,3,777
+257,Skull Fossil,9,777
+258,Sky Plate,3,777
+259,Smoke Ball,3,777
+260,Smooth Rock,3,777
+261,Soda Pop,1,777
+262,Soft Sand,3,777
+263,Soothe Bell,3,777
+264,Soul Dew,3,777
+265,Spell Tag,3,777
+266,Splash Plate,3,777
+267,Spooky Plate,3,777
+268,Star Piece,6,777
+269,Stardust,6,777
+270,Steel Gem,3,777
+271,Stick,3,777
+272,Sticky Barb,3,777
+273,Stone Plate,3,777
+274,Sun Stone,4,777
+275,Super Potion,1,777
+276,Super Repel,6,777
+277,Super Rod,10,777
+278,Sweet Heart,1,777
+279,Swift Wing,5,777
+280,Thanks Mail,8,777
+281,Thick Club,3,777
+282,Thunderstone,4,777
+283,Timer Ball,7,777
+284,TinyMushroon,6,777
+285,Town Map,10,777
+286,Toxic Orb,3,777
+287,Toxic Plate,3,777
+288,TwistedSpoon,3,777
+289,Ultra Ball,7,777
+290,Up-Grade,4,777
+291,Vs. Recorder,10,777
+292,Water Gem,3,777
+293,Water Stone,4,777
+294,Wave Incense,3,777
+295,White Flute,6,777
+296,White Herb,3,777
+297,Wide Lens,3,777
+298,Wise Glasses,3,777
+299,X Accuracy,2,777
+300,X Attack,2,777
+301,X Defend,2,777
+302,X Sp. Def,2,777
+303,X Special,2,777
+304,X Speed,2,777
+305,XTransceiver,10,777
+306,Yellow Flute,6,777
+307,Yellow Scarf,3,777
+308,Yellow Shard,6,777
+309,Zap Plate,3,777
+310,Zinc,5,777
+311,Zoom Lens,3,777
+312,Cheri Berry,11,777
+313,Chesto Berry,11,777
+314,Pecha Berry,11,777
+315,Rawst Berry,11,777
+316,Aspear Berry,11,777
+317,Leppa Berry,11,777
+318,Oran Berry,11,777
+319,Persim Berry,11,777
+320,Lum Berry,11,777
+321,Sitrus Berry,11,777
+322,Figy Berry,11,777
+323,Wiki Berry,11,777
+324,Mago Berry,11,777
+325,Aguav Berry,11,777
+326,Iapapa Berry,11,777
+327,Razz Berry,11,777
+328,Bluk Berry,11,777
+329,Nanab Berry,11,777
+330,Wepear Berry,11,777
+331,Pinap Berry,11,777
+332,Pomeg Berry,11,777
+333,Kelpsy Berry,11,777
+334,Qualot Berry,11,777
+335,Hondew Berry,11,777
+336,Grepa Berry,11,777
+337,Tamato Berry,11,777
+338,Cornn Berry,11,777
+339,Magost Berry,11,777
+340,Rabuta Berry,11,777
+341,Nomel Berry,11,777
+342,Spelon Berry,11,777
+343,Pamtre Berry,11,777
+344,Watmel Berry,11,777
+345,Durin Berry,11,777
+346,Belue Berry,11,777
+347,Occa Berry,11,777
+348,Passho Berry,11,777
+349,Wacan Berry,11,777
+350,Rindo Berry,11,777
+351,Yache Berry,11,777
+352,Chople Berry,11,777
+353,Kebia Berry,11,777
+354,Shuca Berry,11,777
+355,Coba Berry,11,777
+356,Payapa Berry,11,777
+357,Tanga Berry,11,777
+358,Charti Berry,11,777
+359,Kasib Berry,11,777
+360,Haban Berry,11,777
+361,Colbur Berry,11,777
+362,Babiri Berry,11,777
+363,Chilan Berry,11,777
+364,Liechi Berry,11,777
+365,Ganlon Berry,11,777
+366,Salac Berry,11,777
+367,Petaya Berry,11,777
+368,Apicot Berry,11,777
+369,Lansat Berry,11,777
+370,Starf Berry,11,777
+371,Enigma Berry,11,777
+372,Micle Berry,11,777
+373,Custap Berry,11,777
+374,Jaboca Berry,11,777
+375,Rowap Berry,11,777
